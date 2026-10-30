@@ -6,7 +6,7 @@ The clipboard that remembers. Images, screenshots and text you copy wait right a
 
 The installer is not code-signed yet, so Windows may warn about an unknown publisher: click **More info → Run anyway**. Each release lists the SHA-256 of its file. The installer version does not update itself; download a new version from here.
 
-The app makes no network requests, has no accounts and no analytics. [Privacy policy](https://claude.ai/artifact/TBNe6c1rCvmqC2VX7tcP9G) · Questions: aktivnjygomes@gmail.com
+The app makes no network requests, has no accounts and no analytics. [Website](https://megabuffer.app) · [Privacy policy](https://megabuffer.app/privacy) · Questions: aktivnjygomes@gmail.com
 
 This repository holds installers only.
 
@@ -17,3 +17,5 @@ This repository holds installers only.
 **Завантажити:** [MegaBuffer-Setup.exe](https://github.com/aktivnjygomes-a11y/MegaBuffer-releases/releases/latest/download/MegaBuffer-Setup.exe) (остання версія) · [усі випуски](https://github.com/aktivnjygomes-a11y/MegaBuffer-releases/releases) · [Microsoft Store](https://apps.microsoft.com/detail/9NDD5CTKLJQR)
 
 Інсталятор поки без цифрового підпису, тож Windows може попередити про невідомого видавця: натисни **Докладніше → Все одно запустити**. У кожному випуску вказано SHA-256 файлу. Версія з інсталятора сама не оновлюється — нову версію завантажуй звідси.
+
+Програма не робить мережевих запитів, без акаунтів і аналітики. [Сайт](https://megabuffer.app) · [Політика конфіденційності](https://megabuffer.app/privacy)
